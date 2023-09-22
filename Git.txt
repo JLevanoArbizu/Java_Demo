@@ -1,3 +1,8 @@
 demo1
 demo2
 demo3
+
+
+
+git config --global user.name "dasdo" //Configurar Nombre que salen en los commits
+git config --global user.email dasdo1@gmail.com  //Configurar Email
